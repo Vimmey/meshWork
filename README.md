@@ -29,8 +29,11 @@
    		Response Format :
 
             {
-              "ports" : "443", 
-              "service" : "https"
+              "ip" : "52.66.138.74",
+              "domain_name" : "vimmey.com",
+              "isp" : "amazon.com",              
+              "ports" : "443","23" 
+              "service" : "https", "ssh"
             }
 
 
